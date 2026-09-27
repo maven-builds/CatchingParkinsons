@@ -1,6 +1,6 @@
 # Inquiries
 
-***How Can We Move From Reactive Treatment to Proactive Early Detection?***
+ ***How Can We Move From Reactive Treatment to Proactive Early Detection?***
 
 ***BIG PICTURE:***
 
@@ -101,8 +101,11 @@ Anosmia as an isolated/idiopathic condition is quite rare, affecting around 3% o
     
 * Synucleinopathic disorders show a very strong correlation to the excessive accumulation of α\-synuclein, and it is this accumulation that defines them. 
 
+2. *A Deeper Dive Into Alpha-Synculein:*
 
-  
+According to Leonidas Stefanis’ ***“α-Synuclein in Parkinson's Disease”,*** alpha-synuclein is a *“presynaptic neuronal protein that is genetically and neuropathologically linked to Parkinson’s disease.”* His article further states that this protein can contribute to the neurodegenerative disorder in a number of ways, *“... but it is generally thought that its aberrant soluble oligomeric conformations, termed ‘protofibrils’, are the toxic species that mediate disruption of cellular homeostasis and neuronal death, through effects on various intracellular targets, including synaptic function.”*
+
+These words underscore the intense debate and speculation surrounding the role of alpha-synuclein in contrast to the progression of neurodegenerative conditions. In simpler words, alpha-synuclein is a protein, found within nerve cells (*neuronal*), that is encoded by the SNCA gene, which provides the instructions to build the protein. Alpha-synuclein and its function are not well-understood, but current studies suggest it plays a key role in supplying synaptic vesicles, which store neurotransmitters within neurons, to presynaptic terminals, distinct regions of axons that serve as sites for the release of these neurotransmitters.  
 
 # UCI Observations
 
@@ -170,7 +173,7 @@ Anosmia as an isolated/idiopathic condition is quite rare, affecting around 3% o
 
 A pause interval is any pause over 200 milliseconds taken during speech. The *duration* is the median length of these pauses. In the first graph (Graph A), all 10 individuals are reading a passage out loud, whereas in the second graph (Graph B), they are giving a monologue.
 
-In Graph A, PD13, PD19, and RBD27 show the longest pause intervals, above 180 milliseconds collectively, and 224 ms, 245 ms, and 188 ms, respectively. All other individuals fall below the 180-ms threshold, but figures jump dramatically during their monologues. In Graph B, every individual, but HC09 and HC45, have their DPI above 200 milliseconds. In particular, PD13, RBD27, HC07, and HC49 show the longest intervals, above 240 milliseconds. The rise in intervals in monologues compared to reading may be a product of having no “guide”, unlike with text where the task was to simply read it out loud.
+In Graph A, PD13, PD19, and RBD27 show the longest pause intervals, above 180 milliseconds collectively, and 224 ms, 245 ms, and 188 ms, respectively. All other individuals fall below the 180-ms threshold, but figures jump dramatically during their monologues. In Graph B, every individual, but HC09 and HC45, has their DPI above 200 milliseconds. In particular, PD13, RBD27, HC07, and HC49 show the longest intervals, above 240 milliseconds. The rise in intervals in monologues compared to reading may be a product of having no “guide”, unlike with text where the task was to simply read it out loud.
 
 * Duration of Unvoiced Stops
 
@@ -182,11 +185,30 @@ In Graph B, the entire cohort falls below 27.5 milliseconds, with the exception 
 
 Overall, unvoiced stops appear to be a marker for early neurodegeneration in synucleinopathies, as we head into the next cohort in this dataset.
 
-# Vocabulary
+# Glossary
 
 *Breaking Down Vocabulary Used Across My Data*
 
-* Entropy of Speech Timing (-): Entropy is a measure of unpredictability or randomness, and as such, entropy of speech timing, a dimensionless value, measures the variation in the speech of an individual. A high   
+* Acceleration of Speech Timing: An involuntary acceleration of an individual’s pace of speech.  
+    
+* Alpha-synuclein: A neuronal protein linked to disorders such as Parkinson’s disease, where an unusual accumulation of the protein is a defining characteristic of the family of *synucleinopathic* conditions.  
+    
+* Anafranil:  
+    
+* Anosmia: An olfactory disorder defined by the complete inability to smell that isn’t necessarily linked to Parkinson’s disease, as it can be attributed to a variety of factors such as ageing, injury, and medication.  
+    
+* Bilateral Movement Disorder: A movement disorder, classified as *stereotypic,* affecting both sides of the body.   
+    
+* Cipralex: A medication prescribed to treat clinical depression and generalized anxiety disorder.  
+    
+* Decay of Unvoiced Fricatives: Unvoiced fricatives are consonant sounds produced by forcing air through two   
+    
+* Degrees of Freedom:  
+    
+* Duration of Pause Intervals: The median duration of pauses (in milliseconds) taken during speech.  
+    
+* Entropy of Speech Timing (-): Entropy of Speech Timing (EST) is a dimensionless measure of the complexity of given speech, and the impact on the perception of that speech by listeners with normal hearing. Entropy itself measures unpredictability in given data, and here that data would be an individual’s speech.
+
 * Hoehn & Yahr Scale: The *Hoehn & Yahr Scale* is a rating system designed to track the progression of motor dysfunction in Parkinson’s disease in stages. In Stage 1, motor symptoms, such as tremors, affect only one side of the body (unilateral involvement), causing minimal disability to the patient in this context, whereas Stage 1.5 is characterized by unilateral involvement and an impact on the trunk and spine (axial involvement). In Stage 2, both sides of the body are affected (bilateral movement), with Stage 2.5 being defined by mild bilateral disease. Stages 3 and 4 are defined by a severe progression in bilateral disease and functional disability.  
     
 *  UPDRS Part III: Unified Parkinson’s Disease Rating Scale (UPDRS) is a rating system used by clinicians to classify the physical severity of motor dysfunction in Parkinson’s disease. Part III of the scale focuses on posture, speech, facial expressions, rigidity, agility, and tremors.
@@ -266,17 +288,26 @@ Overall, unvoiced stops appear to be a marker for early neurodegeneration in syn
 
 *Vocabulary:*
 
-*….*  
-*….*  
+[*https://my.clevelandclinic.org/health/diseases/24847-movement-disorders*](https://my.clevelandclinic.org/health/diseases/24847-movement-disorders)  
+*(Bilateral movement disorder)*  
+[*https://pmc.ncbi.nlm.nih.gov/articles/PMC8874014/*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8874014/)  
+*(Duration of Pause Intervals)*  
+*…*  
 *….*
 
 *Research (Lewy Bodies)*
 
 [*https://www.sciencedirect.com/topics/computer-science/presynaptic-neuron*](https://www.sciencedirect.com/topics/computer-science/presynaptic-neuron)
 
-[*https://pmc.ncbi.nlm.nih.gov/articles/PMC3281589/*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3281589/)
+*Stefanis L. \-Synuclein in Parkinson’s disease. Cold Spring Harbor Perspectives in Medicine \[Internet\]. 2011 Dec 13;2(2):a009399. Available from: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3281589/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3281589/)*
 
 [*https://pubmed.ncbi.nlm.nih.gov/28987181/*](https://pubmed.ncbi.nlm.nih.gov/28987181/)
+
+[*https://medlineplus.gov/genetics/gene/snca/*](https://medlineplus.gov/genetics/gene/snca/)
+
+[*https://pmc.ncbi.nlm.nih.gov/articles/PMC3281589/*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3281589/)
+
+[*https://www.sciencedirect.com/topics/neuroscience/presynaptic-terminal*](https://www.sciencedirect.com/topics/neuroscience/presynaptic-terminal)
 
 # Inspecting Graphs
 
