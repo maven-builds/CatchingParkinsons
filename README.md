@@ -21,7 +21,12 @@ The goal of this project is to analyze dysfunction in the prodromal window of Pa
 - Google Colab
 - Pandas
 - Matplotlib
-- Scikit
+- SciPy
+- Scikit-learn
+
+# YouTube Series
+
+Decoding Parkinson's - https://www.youtube.com/watch?v=EorbzVi1bOI&list=PLAihskkrNnjQ&pp=sAgC
 
 # Navigation
 
