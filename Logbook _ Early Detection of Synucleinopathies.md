@@ -8,7 +8,7 @@
 
 ## ***Sourcing UCI Biomarkers, PhysioNet PADS Datasets***
 
-## ***https://github.com/maven-builds/CatchingParkinsons***
+## ***https\://github.com/maven-builds/CatchingParkinsons***
 
 ***Table of Contents***
 
@@ -22,7 +22,7 @@
 ***Recording Speech Metrics and Running The First Statistical Tests***
 
 ***October 2026:***   
-***Not Applicable***
+***Running Comparisons and Corrections***
 
 ***November 2026:***   
 ***Not Applicable***
@@ -41,7 +41,7 @@
 
 ***JULY 2026***
 
-**2026-07-15 | 09:00 PM – 10:00 PM:**
+**2026-07-15 \| 09:00 PM – 10:00 PM:**
 
 **OBJECTIVE: *Forming a basic understanding of Parkinson’s disease***  
 **NEXT STEP: *Find a direction for my research***
@@ -50,14 +50,14 @@
 
 ***AUGUST 2026***
 
-**2026-08-01 | 07:00 PM – 10:00 PM:**
+**2026-08-01 \| 07:00 PM – 10:00 PM:**
 
 **OBJECTIVE: *Expanding my understanding of Parkinson’s disease***  
 **NEXT STEP: *Find a direction for my research and look into each symptom***
 
 *Studied the symptoms of Parkinson’s disease, particularly bradykinesia, freezing of gait, paradoxical kinesia, anosmia, and RBD. The role of dopamine as both a neurotransmitter and a neurohormone with peripheral function was researched much more in depth, with my notes covering its nature beyond acting as the primary neurochemical in motivation.*
 
-**2026-08-02 | 01:00 PM – 03:00 PM:**
+**2026-08-02 \| 01:00 PM – 03:00 PM:**
 
 **OBJECTIVE: *Researching anosmia and finding a thesis***  
 **NEXT STEP: *Narrow down my thesis***
@@ -66,7 +66,7 @@
 
 Research in this phase primarily cited the ScienceDirect journal and the National Institutes of Health.
 
-**2026-08-03 | 06:00 PM – 07:00 PM:**
+**2026-08-03 \| 06:00 PM – 07:00 PM:**
 
 **OBJECTIVE: *Researching muscle atonia***  
 **NEXT STEP: *Find rich datasets and parse them***
@@ -82,7 +82,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *I didn’t want to give up, so I looked more into Kaggle and eventually found a dataset, by Rabie El Kahoura, of what seemed to be over 2,105 rigorously studied patients. This set covered several details spanning blood sugar and body mass index, to alcohol consumption and medical history. As exhaustive as it was, this did not make the cut as I discovered it was a synthetic set of artificial profiles, explaining how so much data was recorded on so many profiles without major privacy and ethical concerns. Eventually, I found a set of 130 profiles by the UC Irvine Machine Learning Repository, exhaustive accelerometer data recording the movement of one patient, the ALAMEDA project by Konstantina-Maria Giannakopoulou et al, and the PADS (Parkinson’s Disease Smartwatch) set by MIT’s PhysioNet site, covering 469 profiles, which I failed to download due to storage issues.*
 
-**2026-08-07 | 02:00 PM – 08:00 PM:**
+**2026-08-07 \| 02:00 PM – 08:00 PM:**
 
 **OBJECTIVE: *Learn the basics of Pandas and write observation notes for the UCI set***  
 **NEXT STEP: *Filter through the set for specific profiles and features***
@@ -93,14 +93,14 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image1]*
 
-**2026-08-10 | 06:00 PM \- 07:00PM:**
+**2026-08-10 \| 06:00 PM \- 07:00PM:**
 
 **OBJECTIVE: *Record new observation notes***  
 **NEXT STEP: *Research alpha-synuclein***
 
 *As I learned Pandas, I recorded more information on the profiles, such as the age of disease onset, for the three PD patients and one iRBD (idiopathic RBD) patient and duration from first symptoms. I also created my Vocabulary page to define terms and metrics I would be using in my research, such as ‘entropy of speech timing’, ‘Hoehn & Yahr scale’, and ‘UPDRS III’.* 
 
-**2026-08-12 | 06:00 PM \- 07:00 PM:**
+**2026-08-12 \| 06:00 PM \- 07:00 PM:**
 
 **OBJECTIVE: *Research alpha-synuclein***  
 **NEXT STEP: *Look into the motor examination of the patients***
@@ -108,7 +108,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 *I did more research into what alpha-synuclein was. I noted down its nature as a presynaptic neuronal protein and its relationship in brain tissue as a major neurochemical in the ‘sending’ part of communication between nerve cells through axon terminals. My primary sources here were the National Institutes of Health and ScienceDirect, the latter from which I retrieved a diagram of*   
 *alpha-synuclein in action.* 
 
-**2026-08-13 | 02:00 PM \- 04:00 PM:**
+**2026-08-13 \| 02:00 PM \- 04:00 PM:**
 
 **OBJECTIVE: Mapping out the UPDRS III motor examination**  
 **NEXT STEP: *Creating the first graphs for the speech examination scores***
@@ -119,7 +119,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *The goal for the next day is to learn Matplotlib so I can begin plotting simple graphs for the cohort’s speech examination scores.*
 
-**2026-08-14 | 10:00 AM \- 09:00 PM:**
+**2026-08-14 \| 10:00 AM \- 09:00 PM:**
 
 **OBJECTIVE: Graphing in Google Sheets and learning the basics of Matplotlib**  
 **NEXT STEP: *Map out the rest of the speech examination in Matplotlib***
@@ -130,7 +130,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image2]![][image3]*
 
-**2026-08-15 | 03:00 PM \- 08:00 PM:**
+**2026-08-15 \| 03:00 PM \- 08:00 PM:**
 
 **OBJECTIVE: Graph the speech examination figures for the Reading category**  
 **NEXT STEP: Graph the speech examination figures for the Monologue category**
@@ -141,7 +141,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image4]![][image5]*
 
-**2026-08-17 | 11:00 AM \- 03:00 PM:**
+**2026-08-17 \| 11:00 AM \- 03:00 PM:**
 
 **OBJECTIVE: Graph the speech examination figures for the Monologue category**  
 **NEXT STEP: Begin organizing data for the Middle Cohort (50 to 64\)**
@@ -150,7 +150,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image6]![][image7]*
 
-**2026-08-18 | 11:00 AM \- 03:00 PM:**
+**2026-08-18 \| 11:00 AM \- 03:00 PM:**
 
 **OBJECTIVE: Clean up Pandas code**  
 **NEXT STEP: Model the Middle Cohort**
@@ -159,7 +159,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image8]*
 
-**2026-08-19 | 05:00 PM \- 11:00 PM:**
+**2026-08-19 \| 05:00 PM \- 11:00 PM:**
 
 **OBJECTIVE: Organize the Middle Cohort and download the PhysioNet PADS Set**  
 **NEXT STEP: Graph out Speech Examination (Reading & Monologue)**
@@ -172,7 +172,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image9]*
 
-**2026-08-20 | 07:00 PM \- 09:00 PM:**
+**2026-08-20 \| 07:00 PM \- 09:00 PM:**
 
 **OBJECTIVE: Graph out Speech Examination for the PD patients, side by side.**  
 **NEXT STEP: Graph out Speech Examination for the PD and iRBD patients**
@@ -181,7 +181,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image10]![][image11]*
 
-**2026-08-21 | 07:00 PM \- 09:00 PM:**
+**2026-08-21 \| 07:00 PM \- 09:00 PM:**
 
 **OBJECTIVE: Finishing graphing for the PD patients and get started on the iRBD group**  
 **NEXT STEP: Finishing graphing for the iRBD patients**
@@ -192,7 +192,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image14]*
 
-**2026-08-22 | 04:00 PM \- 05:00 PM:**
+**2026-08-22 \| 04:00 PM \- 05:00 PM:**
 
 **OBJECTIVE: Begin graphing Speech Examination scores for the iRBD group**  
 **NEXT STEP: Finishing graphing these figures.**
@@ -201,7 +201,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image15]*
 
-**2026-08-24 | 06:00 PM \- 09:00 PM:**
+**2026-08-24 \| 06:00 PM \- 09:00 PM:**
 
 **OBJECTIVE: Complete graphing for the iRBD cohort**  
 **NEXT STEP: Explore and understand the PhysioNet PADS dataset**
@@ -210,7 +210,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image16]![][image17]![][image18]*
 
-**2026-08-31 | 07:00 PM \- 08:00 PM:**
+**2026-08-31 \| 07:00 PM \- 08:00 PM:**
 
 **OBJECTIVE: Outline September-October Roadmap**  
 **NEXT STEP: Begin graphing Speech Examination scores for the Healthy Controls**
@@ -219,28 +219,28 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 ***SEPTEMBER 2026***
 
-**2026-09-01 | 06:00 PM \- 07:00 PM:**
+**2026-09-01 \| 06:00 PM \- 07:00 PM:**
 
 **OBJECTIVE: Taking down Reading Task scores for the Healthy Controls**  
 **NEXT STEP: Conduct further literature review on Parkinson’s disease pathophysiology**
 
 *I took down all Reading Task examination scores for the Healthy Controls, and this day was a light one, but the next move was to move away from simply observing what the UCI dataset gave me. I planned to do a literature review next, but took a break as the new school year began.*
 
-**2026-09-04 | 12:00 PM \- 01:00 PM:**
+**2026-09-04 \| 12:00 PM \- 01:00 PM:**
 
 **OBJECTIVE: Conducting a brief literature review**  
 **NEXT STEP: Running the first batch of statistical tests**
 
 *I looked more into alpha-synuclein and found an article, “**α-Synuclein in Parkinson's Disease**”, by Leonidas Stefanis, diving into the debate around the role of the protein in the progression of Parkinson’s disease. Alpha-synuclein is a cornerstone in research on the progression of synucleinopathic disorders, hence their family name, and being honest, I only have a surface-level understanding of how it works. A major goal for this project is to develop a deep knowledge of the pathophysiology of synucleinopathic disorders. For the second day of school, I would say this brief exploration was good progress.*
 
-**2026-09-05 | 06:30 PM \- 08:00 PM:**
+**2026-09-05 \| 06:30 PM \- 08:00 PM:**
 
 **OBJECTIVE: Exploring T-tests in SciPy**  
 **NEXT STEP: Comparing iRBD patients to the Healthy Controls**
 
 *I began searching for bite-sized tutorials on SciPy, a Python library for scientific computing. I discovered this channel called CodeAltus. While his course intro was great, the speed at which he was going was quite fast and overwhelming, so I was hearing all these concepts, such as ‘optimization’ and use with Matplotlib, but I wasn’t actually learning anything. I then hopped onto a new resource, Scipy Lecture Notes,* though, ultimately, I also struggled with learning exactly what I needed from there. Finally, I understood I was looking for the *scipy.stats* module of the library, not seeking to learn the entire library. I picked up on some tutorials from W3Schools and the official documentation, getting the wheels going.
 
-**2026-09-06 | 02:00 PM \- 08:30 PM:**
+**2026-09-06 \| 02:00 PM \- 08:30 PM:**
 
 **OBJECTIVE: Comparing iRBD patients to the Healthy Controls**  
 **NEXT STEP: Comparing iRBD patients, Healthy Controls, and PD patients**
@@ -257,7 +257,7 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image19]*
 
-**2026-09-07 | 04:00 PM \- 05:00 PM:**
+**2026-09-07 \| 04:00 PM \- 05:00 PM:**
 
 **OBJECTIVE: Comparing iRBD patients, Healthy Controls, and PD patients**  
 **NEXT STEP: Exploring Mann-Whitney U tests**
@@ -266,30 +266,30 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image20]*
 
-**2026-09-08 | 05:00 PM \- 06:00 PM:**
+**2026-09-08 \| 05:00 PM \- 06:00 PM:**
 
 **OBJECTIVE: Exploring Mann-Whitney U tests**  
 **NEXT STEP: Figuring out how Mann-Whitney U tests work**
 
 *I began looking into Mann-Whitney U tests, which I understand to be “non-parametric” statistical tests. From what I know, they work on sample sizes below 30 individuals better than the t-tests I had used before. I interpret this to denote that the t-tests I had run comparing the iRBD patients to the Healthy Controls are likely outcomes of slight exageration as those were samples of 28 individuals, just barely below the 30-figure mark. I tried running a Mann-Whitney U test in Google Colab, comparing the entropy of speech timing (reading task) values of the PD patients to those of the iRBD patients, and it did not work for some reason. Exhausted, I decided to take a break to focus more on school.* 
 
-**2026-09-10 | 05:00 PM \- 06:00 PM:**
+**2026-09-10 \| 05:00 PM \- 06:00 PM:**
 
 **OBJECTIVE: Figuring out how Mann-Whitney U tests work**  
 **NEXT STEP: Running Mann-Whitney U tests on the Middle Cohort**
 
-*I finally figured out the error I made two days ago– forgetting a simple import statement. I was trying to import “scipy”, and not “mannwhitneyu” from the “scipy.stats” module\! Anyway, I did some reading on how these tests work on SciPy’s official documentation, and I successful ran one comparing the entropy of speech timing (reading task) values of the PD and iRBD patients. This gave me a “U-statistic” of 52.0 for the PD patients, 32.0 for the iRBD patients, and a p-value of \~0.44, meaning this was not statistically meaningful. Safe to say, I do not understand what I did here beyond knowing it is not significant, but I guess that’s the point of learning…*
+*I finally figured out the error I made two days ago– forgetting a simple import statement. I was trying to import “scipy”, and not “mannwhitneyu” from the “scipy.stats” module\! Anyway, I did some reading on how these tests work on SciPy’s official documentation, and I successfully ran one comparing the entropy of speech timing (reading task) values of the PD and iRBD patients. This gave me a “U-statistic” of 52.0 for the PD patients, 32.0 for the iRBD patients, and a p-value of \~0.44, meaning this was not statistically meaningful. Safe to say, I do not understand what I did here beyond knowing it is not significant, but I guess that’s the point of learning…*
 
 *![][image21]*
 
-**2026-09-12 | 08:00 AM \- 09:00 AM:**
+**2026-09-12 \| 08:00 AM \- 09:00 AM:**
 
 **OBJECTIVE: Comparing PD Patients to the iRBD Patients**  
 **NEXT STEP: Comparing PD/iRBD Patients to the Healthy Controls**
 
 *I ran Mann-Whitney U tests across all speech metrics, comparing the patients with Parkinson’s disease to those with idiopathic RBD. Mann-Whitney U tests work objectively better for my analyses because they are non-parametric, which means they are much more flexible with small sample sizes like the Middle Cohort, unlike the t-tests, which generally need at least 30 points to cross into the territory of being notable. Unfortunately, there were no statistically significant results for these tests, meaning that many of the datapoints shared between both patient groups are more likely to be pure randomness than not. The only interesting figure I could narrow down was for the latency of respiratory exchange, which had a p-value of \~0.076 for the monologue task. I have also begun working on a YouTube series to document the project, and I finished the script for the first video today.*
 
-**2026-09-13 | 02:00 PM \- 03:30 PM:**
+**2026-09-13 \| 02:00 PM \- 03:30 PM:**
 
 **OBJECTIVE: Comparing PD and iRBD Patients to the Healthy Controls**  
 **NEXT STEP: Outlining the Older Cohort**
@@ -298,14 +298,14 @@ Research in this phase primarily cited the ScienceDirect journal and the Nationa
 
 *![][image22]*
 
-**2026-09-17 | 05:30 PM \- 06:30 PM:**
+**2026-09-17 \| 05:30 PM \- 06:30 PM:**
 
 **OBJECTIVE: Outlining the Older Cohort**  
 **NEXT STEP: Logging speech examination scores**
 
 *I outlined the Older Cohort in Google Colab, and it certainly looks a lot more promising than the Middle Cohort, with 15 Parkinson’s patients and at least 21 iRBD patients and 30 Healthy Controls. I now have to log in all their metrics from the speech examination before I can move on to the first round of statistical testing.*
 
-**2026-09-20 | 05:00 PM \- 06:30 PM:**
+**2026-09-20 \| 05:00 PM \- 06:30 PM:**
 
 **OBJECTIVE: Logging speech examination scores**   
 **NEXT STEP: Complete logging speech examination scores**
@@ -319,7 +319,7 @@ I recorded the scores for the acceleration of speech timing (monologue), duratio
 
 I finally completed logging in the scores for all speech metrics for the Older Cohort. It was quite a tedious task that conflicted with my school schedule, and having to revisit the scores to check for any potential errors I could’ve made did make the process a bit longer, but now I’m finally done. I also began running my T-tests on the 25th, so I’ll give this part its own entry below. 
 
-**2026-09-25 | 10:00 AM \- 03:00 PM:**
+**2026-09-25 \| 10:00 AM \- 03:00 PM:**
 
 **OBJECTIVE: Finalize speech metrics and run T-tests**  
 **NEXT STEP: Run Mann-Whitney U tests**
@@ -333,7 +333,7 @@ I finished logging the speech examination scores for the iRBD patients,  and Hea
 
 This cohort is the only of the three cohorts I have worked on so far that is fit for proper t-tests as there are comfortably more than 30 profiles (**n \> 30**)*.* The next step is to run the Mann-Whitney U tests. 
 
-**2026-09-27 | 02:00 PM \- 03:00 PM:**
+**2026-09-27 \| 02:00 PM \- 03:00 PM:**
 
 **OBJECTIVE: Run Mann-Whitney U tests**  
 **NEXT STEP: Run Kruskal-Wallis tests**
@@ -349,7 +349,82 @@ With the t-tests and Mann-Whitney U tests completed for the Older Cohort, I inte
 
 Additionally, there are still multiple more statistical tests to be run as we come closer to my October 31st target. These tests include Cohen’s *d* effect tests, Bonferroni corrections, confidence intervals, et cetera. I barely have an idea how these tests will work, but from what I’ve seen, they will make my data analysis more formidable and defensible, as with a test like a Bonferroni correction, you do weed out false positives. I look forward to the upcoming phases of the project.
 
- 
+**2026-09-30 \| 10:00 AM \- 03:00 PM:**
+
+**OBJECTIVE: Organizing PADS JSON data**  
+**NEXT STEP: Run Kruskal-Wallis tests**
+
+I have become unsure of the project’s roadmap heading into the final quarter of the year. While I am still running statistical tests, I’m thinking more of how to turn all these numbers into an actual story. I finally paid attention to the PhysioNet PADS data, but I realized that data was in 469 separate JSON files. I loaded the files I needed into my Google Drive, and then opened up a new file on Notepad to copy-paste each JSON into there to form one unified file. This was a very tedious process, copy-pasting and closing and opening tabs nearly 500 times. By the end of it, I was satisfied and loaded it into Google Colab and organized it with Pandas.
+
+The files did not really tell me much. They told me the age, height, weight, and gender of the individuals, alongside their condition, but not actually vital data I needed compared to the speech metrics in the UCI dataset. This was really frustrating, and to add insult to injury, I found an Excel file in the PADS folder that was all the JSON files in one that I could convert to a CSV for use… As rich as the PADS data was when it came to sensor-tracked data, via accelerometers, there was no data on speech, UPDRS III scores, and no inclusion of RBD patients. The value of PADS came into question, and it is no longer a pillar of the project.  
+
+***OCTOBER 2026***
+
+**2026-10-10 \| 07:30 PM \- 09:30 PM:**
+
+**OBJECTIVE: Run Kruskal-Wallis tests on the Middle & Older Cohorts**  
+**NEXT STEP: Run cross-cohort comparisons**
+
+I ran Kruskal-Wallis tests on the Middle and Older Cohorts. I found five statistically significant results; two from the Middle Cohort and three from the Older Cohort. These were, for the Middle Cohort, the rate of speech timing (monologue task) and duration of voiced intervals (monologue task), which had p-values at 3.62% and 1.68%, respectively. For the Older Cohort, these meaningful results were from the rate of speech timing (monologue task) and the duration of pause intervals (reading and monologues tasks), with p-values of 0.59%, 0.06%, and 3.67%, respectively. With the Kruskal-Wallis tests done for the patient and healthy groups within both cohorts, the next step is to compare groups across both.
+
+**2026-10-11 \| 08:00 PM \- 09:30 PM:**
+
+**OBJECTIVE: Run Kruskal-Wallis tests on the Middle & Older Cohorts**  
+**NEXT STEP: Run cross-cohort comparisons**
+
+I ran Kruskal-Wallis tests on the Middle and Older Cohorts. I found five statistically significant results; two from the Middle Cohort and three from the Older Cohort. These were, for the Middle Cohort, the rate of speech timing (monologue task) and duration of voiced intervals (monologue task), which had p-values at 3.62% and 1.68%, respectively. For the Older Cohort, these meaningful results were from the rate of speech timing (monologue task) and the duration of pause intervals (reading and monologues tasks), with p-values of 0.59%, 0.06%, and 3.67%, respectively. With the Kruskal-Wallis tests done for the patient and healthy groups within both cohorts, the next step is to compare groups across both.
+
+**2026-10-12 \| 05:00 PM \- 09:30 PM:**
+
+**OBJECTIVE: Run cross-cohort comparisons**  
+**NEXT STEP: Run post-hoc Mann-Whitney U tests**
+
+I compared different groups across both Middle and Older Cohorts to each other, and only the rate of speech timing and duration of pause intervals came out as being statistically significant with p-values of \~0.31% and \~0.23%, respectively. Kruskal-Wallis tests only tell me a metric is significant, but not which groups gave me that significance, so the next step is to run post-hoc Mann-Whitney U tests on those results.
+
+**2026-10-17 \| 04:00 PM \- 11:00 PM:**
+
+**OBJECTIVE: Run post-hoc Mann-Whitney U tests**  
+**NEXT STEP: Run corrections to weed out false positives**
+
+I ran Mann-Whitney U tests across the Kruskal-Wallis results I had gotten from my previous comparisons. I found 12 significant p-values. 
+
+For the Middle Cohort comparisons, these were between the iRBD patients and Healthy Controls for the monologue task of the rate of speech timing (p-value \~1.41%), between the PD patients and Healthy Controls for the monologue task of the duration of voiced intervals (p-value \~3.26%), and again between the iRBD patients and Healthy Controls (p-value \~1.22%).
+
+For the Older Cohort comparisons, these were between the PD patients and Healthy Controls (p-value \~0.49%) and the iRBD patients and Healthy Controls (p-value \~1.03%) for the monologue task of the rate of speech timing. Results came up for the monologue task of the duration of pause intervals between the PD patients and Healthy Controls (p-value \~0.03%), and the iRBD patients and Healthy Controls (p-value \~0.6%). Results were also significant for the reading task of DPI between the PD patients and Healthy Controls (p-value \~1.33%).
+
+For the Cross-Cohort comparisons, excluding the results I just gave above, the results were significant for the monologue task of RST and monologue task of DPI. For the RST Monologue:
+
+- ***Middle Cohort PD Patients v. Older Cohort Healthy Controls (p-value \~2.6%)***  
+- ***Middle Cohort iRBD Patients v. Older Cohort Healthy Controls (p-value \~0.01%)***
+
+For the DPI Monologue:
+
+- ***Middle Cohort PD Patients v. Older Cohort Healthy Controls (p-value \~1.65%)***  
+- ***Middle Cohort iRBD Patients v. Older Cohort Healthy Controls (p-value \~0.8%)***
+
+At this stage of the project, I have performed several statistical tests, resulting in multiple p-values, significant and not. It is now time to run corrections on these to filter out false positives and find my story from all this data. To start, I will be using tests like Benjamini-Hochberg procedures to adjust for False Discovery Rates (FDR). FDR-adjusted p-values will be called *q-values.* 
+
+**2026-10-26 \| 04:30 PM \- 06:30 PM:**
+
+**OBJECTIVE: Performing initial Benjamini-Hochberg procedures**  
+**NEXT STEP: Running project-wide B-H procedures**
+
+I have now run Benjamini-Hochberg procedures on my findings from the post-hoc Mann-Whitney U tests. Most of these figures turned out to be false positives, as when performing statistical tests, some significant results may be products of Type I errors that come from wrongfully rejecting a null hypothesis. For my true positives, the Middle Cohort and Older Cohort comparisons survived, as there were only three raw p-values for each, and so the B-H procedure was less harsh with them. For the Cross-Cohort comparisons, only the p-value of \~0.01% between the Middle Cohort iRBD patients and Older Cohort Healthy Controls turned out to be a true positive.
+
+Knowing that these corrections require the full list of raw p-values my statistical tests have resulted in, I will revisit the previous stages of the project and run corrections on those sets.
+
+**2026-10-28 \| 07:30 PM \- 09:00 PM:**
+
+**OBJECTIVE: Performing Holm-Bonferroni procedures**  
+**NEXT STEP: Testing non-false positives for practical importance and running additional H-B procedures**
+
+So it turns out that for the other metrics in my project, Benjamini-Hochberg procedures weren’t practical because the values would be too small. For example, the monologue task of the rate of speech timing for the Middle Cohort would give me three raw p-values for comparing PD Patients to iRBD Patients, PD Patients to Healthy Controls, and iRBD Patients to Healthy Controls. Because I would only have three numbers to work with, a Benjamini-Hochberg procedure would not have enough to work with either.
+
+Holm-Bonferroni procedures are more accurate for these much smaller sets. H-B procedures work because they order my raw p-values from least to greatest and see if the significant p-values exceed a certain threshold or not. If they do, it’s a false positive, and if they don’t, it’s a real finding. For my H-B procedures today, I collected every metric and comparison that gave me at least one significant p-value across the Middle and Older Cohorts across the monologue and reading tasks. These were for the rate of speech timing, duration of voiced intervals, duration of pause intervals, duration of unvoiced stops, and the pause intervals per respiration. I organized these into families for testing; that is, every RST p-value set was grouped together. RST scores for both cohorts and tasks were grouped into one broader RST set for my procedures.
+
+Only three comparisons survived the H-B procedures. That would be between the PD Patients and Healthy Controls of the Older Cohort (RST Monologue, p-value \~0.4907%), PD Patients and Healthy Controls of the Older Cohort (DPI Monologue, p-value \~0.0281%), and the iRBD Patients and Healthy Controls of the Older Cohort (DPI Monologue, p-value \~0.5997%). 
+
+With these findings, the next and final step of statistical testing is quantifying effect sizes to find how important these are in practical terms, not just mathematical. I will also run H-B procedures again but on a cohort-by-cohort basis and screen for more comparisons to run.
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAAEACAYAAABrptjmAABFGklEQVR4Xu2d78sm133e9TcECm1SJ3GeeHFWkbqV6sfZWKYNT4jZrRbRVE5hWYOx29BIaYiyhP5CqiGuZFVqjV+IILVKnTRtvKB1fxq7ehA1KC6rChJibC8RWb3xK6M31puA3ujufZ0z18w13zlz/3pmnp17nuuBDzNzzpnz43t+Xc+5Z87cc+7gIwtjjDHGmE346Q8+sPipn7zQcTeZn/qJv7H40E/9rfr6nhjAGGOMMaaPn/7gg4u//qMf7ribjywOliL0YClCLbSMMcYYsxMQER/88fsXP/5jP9PxO8tAgP74j51f2ufBlnuv0Dp88BcXX/69/7z4wjNfTOfR3xhjhuew4GaMmRr4+fADS6H1o3/1Q0vRdV/H/6zxgR/9mcWP/bUPdX42BEWh9f3vf79IDHc3OHz4hY7bplx69IVEvr5Wnz+0PB6e74YHF44YvkvfPeTSw7/RcRuShx7ouo1BY7Mul46uddxW8sCTXbcejkK6ffm49OjmcW4C2ti9Lbdra+t6SC49+mzHbVv6bNXi/LjtczcstIzZF7ByA2Hxk0uh9RMf+Nkzy08u+eBP3J/EZxRZoCO0/uD3/6gWVt/8P6+3hNZ/+Pd/0ImgBARASWTsKpJ0wt11EoqCaWuB0GH9/aXJGaIuuu3G5YJbY/eji5fryRb5ULuV8jUESDO6EQqXbdpAqQ2VWJXuxojo2LWNjcGuInKT9h37xDSw0DJmP4HAOMtEezR0hFZpBev3Xv5PHbd+8qR3oePensA4gXCw56TaXkmowsqE2xYP+fzei92JkeIMR4gbrmYlEVhf5zzoZBYn7VrkVSsxyC/yuGqSymXP8XDCYzyaVp1+YVKkGEJaLGeOowpbWBlatQKk9oj3KXV9SDiunHVFYjvfpTpPSF7r+kuC63JV393yg7hix2vGUec12a8bB/1ZZ/UKZmElUAUgw7G9avtaJcLol9pm1WaTzZblh20YT13vyzCltlvbcSn+6vZIIVgdm/b0rMSb3ZRunTXU5Vzmg+F4zEL9yeTHcpXafGOrJ+t80JbM+7q+2sZCyxgzLzYSWuoewysYYKOIUVTEUEjkgb07SbbilRUYFTFRFDVcq8WLTmq1f/jJpImnG1+9QlRPKPnYK1gqUcHJhsKxnng5yS/D5XJd7q4wVfnjxEZ/xMF4S5NqyeYaF/JSErJtst1UNMV7aNvWpLniZygVMbQ1Ju/SxN3QrYvalipekW5P2hQIFA8qXvvCApad6USx0pdvjVftx/IjHtiM+dB216Tf9AXWGe9NaVBUtVb7qvqQNCNdMX+5KZ+sQOd8NPHBryRM6zh43xF+iqfgw7EqW9Uf+vtqxELLGDMv1gqtf/OFL3XcVqFiIKKCAgMzJo00iBdWZ5RmoG8P3kVhwfirCaOeqGSyiP9Vw49u7fxkwXa0JE105/HffTVxFIROgisOlQ1QZkyYnGh0hSKvGjxbmCCrCfAop6VlyJP85WL69WrEMr8XjnJ5GA7lU3FWEmqkXX9xgpaVihSu8u8ROzE+iss0ya+s98petaBo8lGvbMmKUKktsOwMn+zYk8/GHt1/BuCHdCiwYvvJtO2kwqJeTYQb2lDV9ttpVPkXmyA9CrZ69S7Z41pHuJTaQ8s/Cp1lPtQuufyXZeWtEVttUVeIg2IKcTyQV8FwjbiOHu6vnzIWWsaYedERWr/0i3+/JayUXzr65U4E+8F2k9JZoLvCYcaiV6gMRY94HBtdcetj+75moWWMmRcdoQV+/bHf7oisX/vH1zvhjDFmWCy0jDHzoii0jDHm7mChZYyZFxZaxpgJYaFljJkXowit9AB54TX45q3ETR+MreJrhe9/tqjzwO8UwcPCWz+30rwhtpL0sP4Lg9uhd9uGu4i+WNH38sVQbBJ/37NK5QfnN2+rfW84rqaJe5PnqE6LjdqwhZYxZmaMIrTS20Y9E0lRZOk+S8vBOAkyGZRbA/SKN9UOzzebdKb7luelV9Pr19CreJP4q19vl/uP8tuGzZYEWSjGONN+Q4/mN9MwqdVvioV0+VZX+15JL8VfTcyVIEtpyRtigIK1HXczKXMLgfzKfZ5ouZdYCsuHp+UhavjFvDV5eqFtq54Jk2Fxjoeg9SHwTjm53YXmq/IrC4NcFqatYfofuG52/wdoH/lNzyfTPSmPlb31rUz4w5bcgkLLlf3b53rdkNtiEyfPG/dmO4S+ONply7aq3lZ8uMp/oS4YX9qa4dHcLuttTkI6uC7Zm22nlZZcN/F0+1yp3psyt9PvYqFljJkXwwutNW9ARZECkkCJr7vLYK2rF3FPo4ZrWShU6TeTWFeYcXLi1gtt/0YgNuLrydZeSJ34qomb10mYFQRhDsOJqXlFPwu1KnzKf3sjT6RdT4Zhn652PrKbCi3113uSIGxtGdANz7h4zvyWbKZxxLyp6FbBlo/t7Qza8TawDaQ6DrZd9VZf3FoiCYiH88of3HQrA8Yf20xtFxG8KS4RaTHdeguKZRjmocmL/BOxIg61a+1ft2/G1UXLzHB1uw3bR8R76/sohB8IacnWJ034pp2me6vw7X+2yv94dbHQMsbMi8GFFn4y7B/AKSDacL+gQ5lsGkHWnvybjR3bcCLihLJq8kVaMY+lfYyYV0wYFFJxEga1qJH9vUorevW+To/mVQYVD5zMuV9Xjodp5mMK22vbJo56co7+YjvYN6ff3ZNJUWHZ2fOJUIAsjwgTV5haQrkgtKN47a6s5fx1BUt/nKQpc7MSlvJYi9xG5EexT3gNf81btnd7RYfQ9gjTtJ2uqFoVB9oT06aN8nH1T8mxnrNbv0Dv2pv5r9qTpFWqA5ZnVb1HcdyPhZYxZl4MLrTmzipRUocpTZo7MFQ8pktJXEyNkig6FdasSkeGbacWWsaYeWGhtSH5OZcXOu6RTcJswlDxmAJbCom7Aeo/rkieFpsKvPh83TBYaBlj5oWFljFmQlhoGWPmhYWWMWZCWGgZY+bFXRVaeLaj/KxM/4O+W9P7EG7z+jp+Aqkf3B3oZyV9YLz1cHLvTy3lFwXGpu9Bctim78WDu8UuP1P1la/ELvGPwap85G0Wum26VFelcNPHQssYMy9GEVrplfDCW3/lV9i7bBpuE/qeN+l7a2vVW3270X6rr3fy6xWEJ6Fcxobyg/39YnA/aNpeuXx9sJ7qN1fvkh362uaqfwJKL2lsIzKng4WWMWZejCC0qr2WOu7dt5N0QkwTRTWRtLdS6Jl0kn8WZFkcteNoJsuuaMurNc3KQHv1qckjJzzufxXj0XDMc70VQOXHrSsYtjQhglrcMP/VJNm147V6KwVc12WALYNYU9HYtlVl04K4a2yT812LjweyHVL5ivfl+Ev5KK3uMW+6BUCfKCbNVgU5XFEUL9NmOAj2tJ0D93eq2ltfHZB6TzApC8W/tqe6PVd1kcvCbSPyw+xsm634xVab/lPBlzEYb6vekY6E1TYY7c3tJGL808FCyxgzLwYVWpjQoohR4ipX/R93NZnVk0HaULI9AZX+y29NvK04mn2GSvfFlYHShpp9P+XFMvD+NGEyXok/istSnCneyl4p/ytWLjgxI5zuxaVloF00bV3diBtLRpq4Gtulvb4KZU9wH62DRpCp/7p9tFr5WMbVZyPdmwrHmA5QsRbFdle0llHBVEqjLVpYJ/mc6Wt9tAShCMEG7KO1XnDRTp161/ZSnTPNVlor2tV0sNAyxsyLQYUWwGTctzIRVxIwWVw4ajY4zZNa/qmtXkHgpFpYheBKEkRKO44sXJCP7qTW/WkSYVrphVWlFC9XOQrCLU2A5+Nu49V9lRvzD7HwUEmEpnjzruWYePtEQWt1Bmku72N6zG89CYtIUJFEMVoSEclf0zvfCJZSHWSu1XWBe5lHxsMyNedVOhQsEBm1wOral2nwvBbYBeGHtGtBxpWjFW2oBO9HOtqWmd/26lZVZ2wzR9mvtFnnQyl91nH2Y7jSPyaR+r5Q70w7l68q68NVHiWt2O6niYWWMWZeDC609oE+gbEPbLLycSL2YtXjbNISb7PFQssYMy/OpNAyxkwVCy1jzLyw0DLGTAgLLWPMvLDQMsZMCAstY8y8sNAyxkwICy1jzLyw0DLGTAgLLWPMvLDQMsZMCAstY8y8sNAyxkwICy1jzLyw0DLGTAgLLWPMvLDQMsZMCAstY8y8sNAyxkwICy1jzLyw0DLGTAgLLWPMvBhFaL3/9iMdt+34hYLbbhy/eL3jNhbPvHLccTPGbIOFljFmXgwutH749qcW73/7E+n8/Vd/IbN0w/Wtz0KE5fNzn/1EOr+Z7vtYff35G7+SjuCHNz7Wif+ZK0vxdFwJmivPp3O4nTu4vnjk6a8ur1+uw8KPQgvnj1fuOVxZFOW0s1C8+WrORwwDXnpM8sG0euI0xmyKhZYxZl4MLrRALbS+ncXTrW8vBdTy+i+ez/4QXDyHmIHQgn8TR/+KFgQOjllcVW5J4GRBBRGF4/Erz+ejrGjdrITQWkH02Sr/PSIrxfX01XRMgqtKyytaxpwUCy1jzLy4K0IL51yt+oskZqLQ6q5kEQqtRw4agVMUWtXKFoRW9m+EFkEc7fgrgVcJLYJVuXa4RmhhlaxOa52AM8aswULLGDMvBhda+rNfFFrZ71dSOP5EmAVWFFo5bOmnw/wTXRZTWEGCyCkJrXOPvZz88orW9XQfhRbC94milKdKaKWfQXtWtVo/FVZpPf5iOU5jzKZYaBlj5sXgQmsVXNE6CVzRuttwRcsYMyQWWsaYeXGqQssYY1ZjoWWMmRcWWsaYCWGhZYyZFxZaxpgJYaFljJkXFlrGmAlhoWWMmRcWWsaYCWGhZYyZFxZaxpgJYaFljJkXFlrGmAlhoWWMmRcWWsaYCWGhZYyZFxZaxpgJYaFljJkXFlrGmAlhoWWMmRcWWsaYCWGhZYyZF6MIrfdf/YWO26lw5fmu29aUv2FYf6y6h76PT29D/LB25PiVcvn63I3ZPyy0jDHzYhShdbM63vr2pxY/XAqQH974WHZ/9VO1ILn52U8sw32sLFCWgun4+HhJFjc4f7zye/xFuB+HcM21xlO7d7gqftfT+TNXGj+Ge+aVJm4IrZeW56WPSaOc77/9K/n6+UdSmeGGa3xIG2WkTXB+67M8fyRdQ2DhSGL8SDuVMwmq64tzj71c5yu5v3i9On85HZFPHHP+VwtEY6aFhZYxZl6MLrQa94/VKzYQHxAbWPn6/I1KoAgUDBA/FBQQWI8sRdAjVZiXHmvC1WJChFbHT1CxxPNmxaorpCBw6I98UPQpKrTOHeQVPZSRIjMJzkpEscz1PRV9K1pMrxZawZ9Ci3nMZWrKQZsZM30stIwx8+JUhRbP1wutZiWJQolCi2Gy0MrhaiFREFolVGghHhxLQqteKQpCqyRcpiC02iKxKxiNmT4WWsaYeXGKQmspsOSnsVVCCz99QUBRBKmYop+e5+v8EyD9eF/zs5r8jFj95JjOq5/hajEjcfA8CZzqnpLIgoCqf/YLQiv+HNj+GbFd9hiW3Ez5+GpRaDGPaiv6qa2M2Q8stIwx82IUoXUyrtcPd697yJv+ECLRbypwRcsYswkWWsaYeTFBoWWMObtYaBlj5oWFljFmQlhoGWPmxWhCi88Mtbna4z4OH25d39962PzPfv7+VtjFU9sN8J//9M913EogHJ/JIjGtWxe79527eNi5r487Vz5Qn296jzHTZLt+aIwxU+eUhdbpokLr3dv3tPxefUDCXvloWeys4CRCK6YVr7flztG5+jyW05j9wkLLGDMvBhdafEAdQgsbZqZzeVidG4O297mq3qR7rLslw+F7f7m4sOTDr/9gcd/nPrI4X7nj/PC92+kc/ucObiZhhXC8V4XWrU9380p0hUlFDwXS4rmfq4XVnecupqMKrXeDW4rjYo4zCi29b/FEDoPwjJf3pbAhXMqnxMtwbRrRZcz+YaFljJkXAwut6/UeVSq0FAqttC/VUlilbRUKAoscvvcDEVrP1u4XvtIVWjjvE1pxVamP0l5WEFKrhNbiuY924+gRWhRN8L9T2aIltGI88H+q8esXWKT9k6gx+4WFljFmXgwstKpP5Lx4vSi0uOcT96LS7Rt0/6p8ncVXW2hlUYVVLvjBDWLrvnfKQgvhDt/5VjpfvNk8x6REgQNRs6jc4MfzKLRSnMvzZtVLwsJNVqayH8RYexJBWu9+uiy0ND5e9/kpN7/mnw7NPmOhZYyZF4MLrely/8arWvvMWSijmTMWWsaYeXGGhFYZrg7tI7Esxuw/FlrGmHlx5oWWMWZKWGgZY+aFhZYxZkJYaBlj5oWFljFmQlhoGWPmhYWWMWZCWGgZY+aFhZYxZkJYaBlj5oWFljFmQlhoGWPmhYWWMWZCWGgZY+aFhZYxZkJYaBlj5oWFljFmQlhoGWPmhYWWMWZCWGgZY+bFKQutq+lj01339Rwff7Xjti1DxPFg9UHrk8DvEb76yXsW5x74kZbfu8/lj1dvjHy8eiXLcHeutN1iWtF/nXuJ9EHtE7DNp4UWT21YdoZ/oh1+m7T6GCKOkxI/SA74EfTVbGc/kj+Q3nWv/YOdS9x8opvnTPne3nZ1pZwXfKw9up2EUl/t4/j4uOOmPLNFf1rHzTVplbhxZVmW8x/ouN9dzi2eXx7/7OfvT9c3v3ZPIYwx+8kpC62G41eeXx6vLwellzt+JYYQSUPEcVKhded2M4B0B7zD7SeIkwitkFb035pq0nu3mvghQuIEyTQX2wrKyDKtWxeb61tP9U3cDZsIgG3ZpBwUPZuE3YWS0GJarNOyONrNHuW4Gk72YfNynmI7qjklodXtq7tzt4XW80cYg86lc9Yl++xpUqed6ur+xT9cnr/6QOP/7h9m0WXMvjO40KJwuvn01cXjL3YHAQ4ySWhdeb4WXMn/sbboQhzPvJLjKIkk/Yt+HICQn1VxHFbC6cOv/yAfk/vNdph3vrU4fzuHKwmt+95pu933Obn3do4LceB45wvtexVdYVLRQ0GRVk8qYVWvCIjQ4oTbnmQr/yi05D6uDMGfgkUn7yb9PDDm+Kv7ZaJjPAiX0lr6YdLNA2n24wRI8ZEnZclLlXeWj9e8r85LZzWrfZ38q7whLaQDoaUiQYVPireyiQoy2iMfD+t0S2JChZ/SCK3KflUcKFMUiKV4832HWWwwj9pW6npvykZhwjrXFaQmzWhDyaPYoG4fhXTiBK3pMG3kJYbr+weB9zMtjSOGTQShpbaNYUu21TrTMrPOOvneAI49jzydx5uX0vXVxfGLeZzDGKjjUz4e96yEXZXz62lMTOGruPqE1qqxsRUuCC3aAPau+57YINXPsu7YlzAmxTqL/aDbVwWMSz021n9KjdlnRhVaeYBp+7eE1lJYpYEjCCwOOPBrBqSuSFo1mOh9q+Kg0MoEgSUi6UIVriS0Sm6MN4qwW4UJgOhEoOf1pLlGaMUVk5aICUKrmSybVTQVWgoHTgqWFG/PSkKKmwNrteqEfHMwZVrMf5xAtQx1WgfdwbsPThQqtNRPB31NS0UMQV45yeSJt7FVadLOcXbtVwutlLfyqmXpPhWuURRpOaIA0jpknSe32HYkzhiHxhPzq2ESy3hZPxpWRVLpntZ1BfPGtGnn2E7q+6s6btX7QTsfq8RxJ165F2XatN0pRaG1/KeSj01gDIwr+fhnMP/TGeK7Im7LcbI1fkpakVVjYytcEFqtOqMtk18W+qktV2MJ/NFuo1Aq2bQE66xPzN5600LLzIPBhRYGFwwi9X9ey4GgHhyq/9oewXk1UDSrTc1/dGnQqeO4mtxvFkTSKjAANf8hduNg/tpCK4smuuGYqFajcE7BFclhbzfn1T0xjcXt8nMe8ZkVXHPyxaRTT8SdyRKD5UX5iehimFjakynj0cEwpfVEHjyj0ErxPdf8BKiCgH6Mu3anCBBxp6tyGofmAwOu5r8VbjnAMx9xYFcYf5/Q4rFOq4pLhRb9NE7acpXQ0rwr9eqdiGOE5SoazmknraO6LAWhRX/ek6+rSVNFRqksoe2k8Ffy6oROvPV9VR5rYVqFxTnrheEYL+NAubTtUGzGfBFt94wDdipN3ilclSbjo/21z7CMrDONX8PFeu8TAIDjWMk983JY0crjWlql1/EQK1NLMfV4uv968WdFxofzPL7m+BCv+u1Grgte9wutbLeS0KIf2wfOtX+U+gRojWsFFm8O81OtMXebwYXWVOj7T28KrFrVmiOrhJExSvyHY4pA7JRElhkOPwxv5sRshZYxZh8pr34YY8y+YqFljJkQFlrGmHlhoWWMmRAWWsaYeWGhZYyZEBZaxph5YaFljJkQFlrGmHlhoWWMmRAWWsaYeWGhZYyZEBZaxph5YaFljJkQFlrGmHlhoWWMmRAWWsaYeWGhZYyZEBZaxph5YaFljJkQFlrGmHlxykLrav0F+205rj4Ird/AunFleX7+A4s7R+c64cdGP9wLVn0ctXXfinD8oO9JaH3s+OJh8ePHEdqxdvv0MB9zZZ21uVlwGw98JDy61XzhRxZ3vlBwD5zku5n8ePqf/N1fr91e/eTS3g+UPy4+KuGjz2DTNtf3YeDkV32se1fwfcPmo9Htjxyv4s4nl/UHW9Lt41/vhDltmJ8b57t+QxD76ib9ezWXC25lHnr0hWW7fbLjvi2HD7/QcTsJl5AvOd82/m3CXzq61nHba5b1ebhlW7308G903EocLeviQsE9xfHosx23k3Dh6IWOG9G0Lj168va7kp7+MbjQ4pfk8ZX6fH3c+lp9fV5NQPwSff0le8Rz5fnavfYrCC0lfVVejqD5svxHK/I1wtSD+cU8sPMaAxfP9evyuAcfR6bAwrEdrkm3Fb9SpVXn74n29Z3KNuk85SnHiXAQaEiTearvu9KUi+6cPHFeT2BV2mlghgBbTm69k+cOQgv12VdnyuFS+JD6+nZXfJ2//ZdJJF34Sr5+8PXcWc4vue9zN5fke+F2IcV3uw4H93Tf575Vh8lkP16ryEofCb6S2+S5g+sp/49Xbk25rlft+mr2O8jl1LbO9o8PD6frgtBSWAf8mLK2pdSOpI3gWAv8qt5R17iH7QN+OI9tJ7WtUO8pnLQBxHfrYiGPCFeLqcOqfTcCTSf7uo0hfu0jy7QRd6utIk7pfykv0p6B9iX4t2wQ2VBoaZ09vqzLegxajj8Q1eWx6+V0zY9JaxyryP24slXs/3KutqEfy7mqzH3jIbj3oF9EJNGEc0y0yzCNgLjcEi6rwASNNHCOe5LISZP2ijhkImIYTMh1HPUknuPANSZR5Jfhcd2OfzPxk/OYx5Gji1lgQgjATW0Q49dzFSUMD7fD81V+U1jEfa3XBihvXc6lPRDuoQeaOrn3YpVHyS/zQeHCe2LcdX2fz/Gr3XJ8rCPaowpf5Zdl0nOF9/C+vnDtNoV20rSJYhyVPY6W5WXZkF+1AeqsyW8+RzjWV+PXn992HNmfbSGS73s21VFOo6qLpW1jPtJ1VZcxfvSRUYXWSzLxEhVd9QT2WL6nmegyiIOrCZsKrXR+gMGJYgMDdRZJCIMBrT0RNOFwLE40T+XJJaVf/ffNgY9xtYRWuF/hhMp4caTAqoWWrDwk4SeTISbVnJe2SOK98T9c5qX2R/pV/JqXFrsIrareISxinbVpRBXEVHSLflyRUqEFEXX4zrcW574CccV7s38UbU0aTRyZ9iqoCq246vr4i43QUgHJMtftV+KohdiGQivWJ+ott+OLqc5B8qvqrhZoB7lNxHgZH8OlMIV6r9ugTPIlVGjhqP2t6QM5DvYRXelC+6OQolvsU4xfy1Pqq7153UBoxTrjeJT8qroCbMMQzPm+pi037WENuoK4LDf7YBaMuexc4dZ/srS/13YWu7W5v+D2kUrQXF4xiWTBw8mdkwiFUt9KBOEKAsIzDgqmVXG0VhSWE9bRw1W6lUDgJEURgbgYbxNH+xppUfD1srSHhsl5o6jIeUrptFYkrtX2y2HagoLl5DnskETSslxIi4KpdU9L+DLfmobUiawc8TyJl2X8JdtqHGmCr9LnkXZDHPV5q96zXfrEeQonfswn2kIpP03+r2X/yrbID8PHeo/CkuFx1LbciMWqvAWxRzRvuV3lsGxj3dW1a3V8SDPaI9UZhWyIo2nfl1txjCq0nnmlOyC1V7Tw3+TLQWBdrQc8FWubCi1OIip8otCimEr/RYafPVRo8VyFFgf5VUKrJNZIcZKLQivQL7QO6/zz3pg2JzDmN+W/MOG2OIHQKtVZ+ydjadRJKMlRKAutZwtCq91JVgmtdE/t156gILTqSZUrqxUqtNIqRtVe20KyWY3FMa7crhNaFBcq0lVosf2x7nWFIwqtHEeOl/GnCb1Q7zH9PjYRWuwbPPYKrUo0aJmafxDaQqvVV7cQWn0/90bx3ye0OHbxGO9Tv36a8mud4RgfIWgJLRlL+gUWKT82gQE/ThBKM0G0J6q1ggVhlhMfJ7q8QlBNMtXEuiqOtvC7LCsZL7TTOGjEXOmnKv2pqCRo+kjpVJMkJ/J6lWhpgxivCpB2OtUkmuKoBNsyn1iRYRyxTB23Kh90i3Wi8ZcEc8lNV7naIqaJA2VqCTeKxdBeSnZvC6EoLsp5od0ozOrV1IOuPTT/jcjF/e2yxjamK41tRIBV9mb9lMRhovo5FflGOm0h1hZ09YquiCqmpWUZXGiNTZ/Q2pV6ZaBPdFToxDJ7TiC09onF7dN7TqpPaO0EfoKqRMy6Z6xUpO8HJ8ivCC2K5rnz7u1hx8OTUPopK9JdPTghy0lxk3TN/tErhE6LnuetdmEvhdZiwMElP0PR/wwEOTtC69xO9j2p0MLKU3x+6zRYvLm9qNyFt37ze4tvfLzrviv5OazV/xyAsyK0/mRpX9g4us+aHf4hGoP4TNNquqswxnSoVp/uFmjPQwr4vRNaxpg5s5vQMsaYqWKhZYyZEBZaxph5YaFljJkQFlrGmHlhoWWMmRAWWsaYeWGhZYyZEBZaxph5YaFljJkQFlrGmHlhoWWMmRAWWsaYeWGhZYyZEBZaxph5YaFljJkQFlrGmHlhoWWMmRAWWsaYeWGhZYyZEBZaxph5sfdC6/jF6/X54y8et/2OT+/DssfH7bS34Zkr+fj5gl+JZ17ZPS3a5K1f/UrtduPKPYtz5+/Gd9O6k+om3+/L4fo/przKbxPwgXGtC3xXMIbZjvsXN85/ZHHn6Fzt9ke/Ou53+Yb4huPm3687KZcXl46uVeeH/R8e3uIjr0ch7813y5jOMPR++LbO6+VBv5lWZJnW4fmC+6aE78ppve8S70Mr2g2+ixjdNuHSw00eLz26eTsYgsOHX+i4GbMNwwqtx15e3Hz6ajrnR4ZVgLz0WD4+AvelQIIf3XDOsMevPF/H8cjTX03Cgm4QUxrn45J+FDsqtODHsIgzhl0H7sHxpfq+q3UcKX+SFsrH8LCJpoVzCqtzV55vXevknvNKEZnTyuGadFN8lV3UjvS7mWxa5aNKqyS0FIoUCh58TJvnNy8eJn9e47h4ohJLyQ8fOv65dM+tpy7WHzRO57znqRwuf8T7sIo/p5nDNR/v7vvYd/qgsn4suUqb53do3yqOmzx/ogl3axnu1sWmnDnvH5VyVGlo3Adte7z7XD7f5cPNq4TW+29/quMWee+pT9fn7zz1W5XbY7Vbn9BKk2BJsAQ3TLYUEZzYOEn2fUQYE1L6GGv9QdbLxXAa9l5ct4TCoYiu8j21EFve18R/rfLL1+2Jubpv6XbvxWdT/hiOZSwJplZ8yzTbNinbgGVu7muH0fxrONirCZvjoECDaFTxCb9ktxX5YH7ruqvCluJQUQr3xhbtD0DHetc42mlrvTCPOR9tAZzrDHWv4iwKKZaRcR5d1HbVtlWbqi6qtqBxtNtOG70nXfe0R80n40L7iuGMGVZoHeTJHcckpiqxRXHSElqVQEjhr+RzrtTQD8KiFiyJq+lejUuFFuMhFBVMv45/S5EFotCioCRR1NGfIop2qeNY5pVlWCe0YloQb5pWLVCrPGhajKMRYpsJLYge5IciBaIE3FkKC4gNrPrke7LIqO+7mMVIjBcgPobL9+d7NTyFVhN/GRU3yW4XG8FHoUVBxBUqvQdh0vUVWf2q4ogrWswLjrQHBCBXutbltUSf0Hr/25/ouPVzaXFjeXzvtz6ZRNYf/1YWXKBPaOVJqiu0kluYfCh+ODkeYbKvVj9KKxMIl9yXYXBvvv9yV8RQ1FXH9grIYe8qCvOWVxgqEVDFwXtYttbEKyKSZeGECHtEkdmk0Rzbk3y+tzSpMl0Vg9nvWj1haxy1AEE+qjKxLLRLM+k3K38qNkorgPTL9aR10MRR50FEhabfKl+o91L9E8aXxGN1TrtrWswT/NC2jh5GetcqW2ic7ets41yGWO81S7uzLhCGZaU9GKadTlPfWva+9qjhKRZX2cWcXQYXWhBD/AmPk3oteNJkf70rtEQ4pPCVH2gLrUZYxWOiR2j1/dRG0bYJzEctaiSP2b3JJ+JlmhQ4oHZLcVyvBNTVfqFV2SWm1RJaye9qCt8WWBSlbbG2qdCi4IFwop8KrVqgVMd6ZeugK7QYhwotxLNKaMU4IpsIrZxGc+wXWs29KT4ISUmrFlLLsCwLjmMIrXMHH1v8xfPRrZ8//pvbrGjlCaYjfA6aiaqZsJrJDZMOJ5CSuKjjOMIKxbPNZFUIAxhXWSiUVw8AJ+AUvvVzF/N6uRYsmrb+9NOZ+Jfl7U7s6p/T4qSdVoaSUCmv1tUrTZWYqdPmqt3y2MRxrSUasm2bvOtKSsqP5CP5c6WmsOLSCL4n24IiCBA9ZhpbqADuq/dSW0r5r+on2rb0E24Sjakslzs/+SY0/0HwrWpj8KvbWmXvVGfhp1Kl2ya7tlVYv/VKZxCtxoARhFZhBWYNtZgKQumssekzWkPQJ7R247AWMfrTX4mTPj81F/qF1jCUhdY+0Ijh06A4sZ8abUE4JJvH2xWZ84WCLrr30ycwjdmGQYXWLs8+kfwTWHtl66yxuH3PYvG15oHpMXnrN7+3eOvqFzvuu4JVI32WqQ8LrY8snrv6vWT/6D4UqR1ZaK2ltCJ1WqTnrrac9Dem8JNYEfxUPFYeJsYu9kb7WPWzoTGbMqjQMsaYk3F6QssYY4bkgQt/J/GzP/PzLffJCS38F3Hvh/52TfQ3J0dt/F71fI8x08BCyxizn3z5y19O/Oo/+ict91MWWs8uLnwlurVpRMBH75rQws+Y+SF72Uqh2h4hhr0b3PfOX3bc+uCzQPpMEGz8Xy20zCSx0DLG7CcTEVr9HL53Ox0ptN79w+GE1jbbOsRNTzf16+PDr/9gcb7gvo4L720upvppP4NFsZVs/OxfsdAyE8RCyxizn5ya0DqsBMLh7Zv1youKhvs+x3A/SMcHGV6F1mcO6p+2mq0i8oPy3M4BWyK09+nK20bwDUZudYCNUdvbKjT34e1I7izPMFFM6bYN6qf7ZPVtHwFUaNEepRWp6KY2o21qt6/k6+yX7YiVQvofvvOtdPyTwgPXnz1oxOydZy20zNSw0DLG7CenKLSyCMBkH8UDqIVWJQaKQqtabckrWrrxZ7NtRBJJQWjhnEKL4odCqLSberq32ueK920qtLhRqO7IXtrWQoUWywq3GA5ApD74erWxngqtylY1KrQqPwit87crYVv9PPvWb77ZSeO5g/aqoYWWmRYWWsaY/eTUhRbExTZCi8csAvLPhvzpsCWSsAJV7beV3OtP3LSFlgqkuOKkQivuqr650GrcX9LNV6tw9Wd2PvettLqXziuBxFUo5UKwB0VTCr+h0OK9pLtXU/4pkULr/33GK1pmalhoGWP2k1MXWrtCEYC9gGqhFXdGX8vV9s7zHf950vmJcck3Pt74c4ULNr5T2ddCy0wLCy1jzH5yakLrpHh7h/Hx9g5mulhoGWP2k1MRWh8//HvGGHMCfrngZoyZMlELmDYWWsaYCWGhZcy+EbWAaWOhZYyZEBZaxuwbUQuYNhZaxpgJYaFlzL4RtYBpY6FljJkQFlrG7BtRC5g2gwotY4wxxhjTYKFljDHGGDMSFlrGGGOMMSNhoWWMMcYYMxKnKrS+//3vd9y25e233+64bcIz//rfddyG4s///K2Om/LSi1/uuEXWxfH66/+347aOf/DJz3TcSvzpn/5Z6zqmFf3XuW/KrnWi6Q4RR+TxX/vtjluJaKdNYRsupbNr+z4pQ6Qb29u6OEt1B7eSXcYgpoO0//t/+1o6x1gV28i29b1N+Gi7eG/0BxhXSu4RlCXG18e6OrvblNrMSYntwJihGVRocWBip/4X/+x3anEFN56zM2NQ48DaJ8IQVju/TlIYaHhfjEMHF4gY+vEYB1GA+JAf+mkcFEsY2OCGfMCNcQPkAf4xH6WyIR244xjjiGHhxglA42eZOfhonIxPy0Lbqd0YTvPItOiPOHCP1iGOtA3TYD5QHhWOfYM306Vtca5px7CMi/fRFjEO5It2xXmssxhHTIfgWssc0TJq+0MZYBNeqx/TpjvClmzFMMhfzCPCIF+8j/ZGOMQHNB7tb0yXtkE+Wca+ckY0bzjXtqnh+uq9r+0zbsaj5aNfqX0g/6xfhuc52yiukR7LzPg0zlLcRPsl7tdxiHlnHlg2xs86pLvWe6mvan/HkXHEeme68OO9Wu+7iJLY9xlH7Afax/Vc4ZhBv9hHWDbGofXHY1+dlf551faHe3EP0DJoXTAs3EvjrjFDURRabITs4F/7X/978dZb3Y4U0YECx9jRdXDCkR2KnZuDYkQ7QYyDlOKAW8wLO2gpLfhxgtTBQe/jpI3zODBovDoYlwYFooNK9CM6YelAGCcI5E1tzoGH9UI3hmfZ1F/vZ54otOhOWFYOYMgn44yTbglNK4q1EpqfUhy0E9wAB1UO+HqvxhHRMrAcpfJrndGmcIsTdryXedG2yXtimynlUyeJmFdO9jpxMZzWO/1iW15HKT+MI9Z5X5wsG8pdaveMR9s3z3FvbCPss7jvP/7eH9buKKeWL064OobEvEfWjTsoB9PSdBhO+wrj0Hai6cd6o7/We7yH8XMMo9u6ckViO+QYqvXel78YV2z3jBv5YjvF/VqfuI5Ci/cgjVj3Sp8NYxy0FcukbsaMQVFovfrqa+n4P//H19Pxl45+efFPf/tfdcJF4iQWO0UUDOwYfY0c/nFA7BvwNA79r6mUxu9/+b900gIqtOKEhyPS1E7JMFouHZBKwiCGY5i+SQmUBAkoDRhx0NJwJAotnew0HzxH/HHQjPEiDMVNDBcnCKJ1yDxEkaL3l0RpqW2APqHFMKUJXu+N8cf2FuNg/DjGMkT781onXKapZUA7jXEBtafam20TcSBv2i6YDvsT02Feoj366qzUPhhHrPu+Ns18rBNa4OnP/9t0LLU/HW8otP7lP/+dVhzMG/zjhBvzG6+Jirt4n9Y7zxlW6077rdZ7dNP7ec62HOsk5vdLX/zddIztLVIajwjzFMfy0rgGYh6UWGeaL7ZTjqka1yqhVeqHRPMSxwLGhzCx/IiT5YZ/zLcxJ6UotHYFA4EOBjpgoJHrSlHsCDoQxjg52GocscNpHOgoOGfnwbmGjwMWUaHFgY1xIL/whzsHDJaB6SENgHOG7SsX06E9NA4NF+9lOUv3ID0NDz8OKjjnfVFo4Vrj1LRQxpLQYnx018EL96iN9TzCONRuMQzLSVsxvxxY9T7mi5MTB07UmeYjxhHzxLBsczEM/XjOPDJuDad+jFuvmXfaTessplly531smxRaDKsTF/JWElq0f18ahG0a57Shihn6xf6uoHy4F3UU/TUOXvf5lYQW86fx8jpO2vRjfcV6I1Ew4jr2fcaLY+yDSIv2BSWhBXeUI/Z3pMO2rGXnPdE+fX4K0i21e/ppHMxrFCdq49jfSezLOkar0Irx0Var6izGDbRMsc5wD8sdxxqNm+NFjNuYkzCo0NoX4mBmxoMiKrqfNuv+y58id6udTqXOThsKgOg+JyA2omg665zFtm5OlzMptIwxxhhjTgMLLWOMMcaYkdgrobXquYOhic+ODMEQPwX1PUeyDftux/j8xS4M8fPJqp+Zoo2HqHtlVdp9DPETyVDlgG34XMwQ9RnpewZpFbvYNDLE8z36bFREn2XapYzr2KUuhrDbEOMEbDNEv14H6kafe4z+YJe6OWnb0Wfm+trPtvYZYr4BJTshjwBjylD5RVwntWN8nrcPfU6zr74ZZq+EFiuLRuADjjhHYbFvlz6Yy3M+rIlK4DMK+sAx4+BDtUxLBzXez7zofQrSYtx84JNx6v18IJMPuvJBUfghXsBKYj54D8B5fAgV1zoAwK/UANio2SBZFlxr/umn58yzxs8HdWkPLQvDsUNpfDH+6M68axy41slA40S+ta5xX3yIVu3GNEpl1gebS3lcNTiUJh7WvdYZ7ofNWGfMP+9hHhmn5qOURoyDcWt6GhburLO4552mR3vyHKCtaH8BpfYX06SfXscyl+qdbUzv02ucq01K7T7GEfOv/VnLj3xwzKA78gwbaPugbfSadtP+HutdYRolu6mdgJaxVO8sD9LVyQd+TBt+mo+YBtE42K90nIthcUR4+DF+HaN1zABqt9jWGa7kFymNyUODOvzG149TGUp21DzGMVrrSdsjy6/XtLe2HaZfsgHTR95wD+6PdtT49V6Nn+dxvonj06b9HfkotXWkAVu98cabG+VX2xmumRccec57QOzvLA/Omd9SvsgqP/WHXZAW27Gmxeu9FFooGDsUBztWmlY+K52ViPNSR2TH1/h5ruHZEOPAEokDkHYQhmG8OFKs0C+WQ++N+WcaOpBSPOBcBQShXbScuB/QD+lpJ4rplAZkhtHyaBwahunHOJS+ODRt5ocTId2Rf+ZDbdNnF17HtsN7tX5IaVAB2rmJ1j1twPtRpzxn/vraGMP1+WscbCvaDxiG5S21TfihDGoj2kXDAdontr9YZ6V7SGxLffWu98X6A9o3SvUV44h9nEdtvwiv+YPd4QZ/zYOOR5pe7Lda17EvaxqlthXDxzLGelfbr+q3Wqcl/7442Aa1LWqdlWzBsY1uvDe2k9hPcS/i43WMm5T63tAgbdTPd77z3ZRv5p31oe0HxP4e6SsTr0vtM/ZDgHx897vfS36E8TANHjV/0fbqFtsc62Wb/t7njjiQR9hF84s0aDPtY31tBei8pXnTc+0XfeVTVvkB5A3xoPxIX/PAe2mvvRRayHxslNqJtTHEwUiNx3Pcp40F7qWKiINmH2wcbBi8TzuHNqRSx0QZtEFop9G0YieOE3ZpQtIGoYMeB5Doh2OMR++LA68OBLED6qCscZSgTWIcep8OQppHpE+7olzx3thZeW8cSHhkXuJ/SBpHjEsp1b1OuLHeYhtjPhhO7RiJccS2AWL71vwh/xRaLAvDxzLHfPEY60yJbrEd9NW7tn29h3WiNov9nmgc0QZ6v5ZH04LdOa6ofUpxANpV+7vWO8Npu0LYaGfQZ6foz3jVziy3umlfj3GUYByxv5f6NI5xrCqN0WoXDRvLwj7CcIxb7bYq70MS+2vMO/y07Douap0xv7ENEcYRbaTjq8K6hR/uLbV12kvzofmP/T3WIfO8rr/Huoh9Hmh5Y37pF/sFjppf2lTzE+ON9+MY+z7nCd4T67SEhoHNS2P8Xq5o7QIMz0ZVapxKqTGYjNpmnR3jBGCMMcacVWYvtID+VroKC61+IFg3taOFljHGGJM5E0LLGGOMMeZuYKFljDHGGDMSgwot/rSEB8zwHA/O9UFJ/dkJ5/6JaXv05zue9/2c1+duhoG2dztuHga1LbYHjyzEsXHVyw6mzKqxcJ9hmfalTfARHOR3X8YD2nbd88e7MqjQ4psGeGpfMxzfTIjhzXbEN5JKHZBvRMxx4JkK+zKInAZ8o4w2Yfvb5O0dkym9IWU2Z6xJ8m6DtkBwjXYy5faBeZ75xXjAOWjK9cO+xwUinA+pTwYVWvyPIr7qyPP4urEnqt1Q28ZXggHsykYexa0ZDrffBrZJ/hMQXxM369GtDKY8kU6ZKU/mu4K2wH9kVIzHf7inAvq8/uNVmv+nBrfkUO0yZB8cVGipAmRmdUWFhobfVBvJPsDOBhtqY2CHxHncb8YMj4VWA9sdNnHEke1vyMFq7nAvIber3RlyFWIqsA/p/DnlfsV84oi2HPfemiLcfwu2ZX6HFIaDCi1jjDHGGNNgoWWMMcYYMxIWWsYYY4wxI2GhZYwxxhgzEoMKLf0QKB+O1Ydk48Nl8dpsxje+fty6LtlxjAf6TANfPHjjjTeLb36eNWALPACvD3J7a5Ht8PYOJ2OuL/5gjNEH4DG2T3lcL711OPWx4LXXvpmOfOsQ+R3y4f1RhBa3eKA7z7VxTN3wUwU25MTe14C5vQPCTrlD7jMQFRz4PCk2fZxCS988imFNG91rCMCWFu/bwdfz5yi2ML5wyw8t31TfTuUcRaHFPE95Tz20H4pC5nfIcX0UoQV04I2DL4nXZjW0YxyES3YcY9M106CDxpQHkNOC/f1LX/zddPQ+WttDm7nPbo+KjqkKkF3Rf+j2RWjhqCtauJ7yOMmtkriiBbe9EVq6sgXjc0NTCIXSSozZDAot2pPuugdP/C/ZDIsKCIuJRmhxcHL72xyMm3FFK4Yx65n6T2q7wj7FNoLjlEUL6wD5xDiwD/M9hBZFFvM7pJAdVGgZY4wxxpgGCy1jjDHGmJGw0DLGGGOMGYlBhZY+g8VntPSBMv2ddujfQM8K8bksfqMphmPY6GaGgTbnG0HR/6zB5xvcp7eHz6/yGudzfNboNJjjmMcyDflw9pjEh+Gj/xShbcd6PnJQobXpPlo8+u2a3dD9PWDD0kTvfbTGhW+oeB+tDGzhfbROBl5m4UPOQ+7hc1ZAG5zjeOd9tMZnlvto6VsU+6J4pwJsF0VUnOhhU4SD/5Q75D7jfbTasI+zP8d/qkw/+oamTqJDDvRnAYyDc2xvXDXHcV+2d/A+Wm1GEVqAA682jNgJ4rXZHDQM/ozIQVq3d4hizAyL2nXKA8hpwf7Orxaw/XnVenPQjryitRuYFDkWxn889x39h47tYsrtQxdUuL0DrqdcL7An+h7GMeZzyLlzUKFljDHGGGMaLLSMMcYYY0bCQssYY4wxZiQstIwxxhhjRmJQocVvduFhMr5JwwfK9KFtXvPB7ehnVqO2WvVmoW06Ht5Hqw1fi57qm1BTBv1X+2r89qHpJ46FQ718wbfQcK4vdG0KxwTObX312Zdffdg97pU49fEmPgwf/acIXzjQ3RKGZHChhSMMHRspja+iIDayfamUuwnsyY626m03+vV1cHMy0DGB7m9zltF9c3DN9reqjZo2uo+W2QzOJxQmsOFQb+RxftJJOM5jpTmrJIQQDiBvpTlQ/3HjIgVAmlFoMVxMYyqgfBwfWRa4jyVihoA6hXto4Tzqk5MwitDiihbO2SBiA9WtCAAbYYzTtFGhpa/9ahjYko28b7XLnAxMiPuwP8xpwUGUfZg2cfvbHPRrjqGlCdx0YftSETTkhM5JF3WjK1MqICKxzesKD446z5W2QYH/qhWtUhpTAnnTf7xYH1POM2yM8Zwr83CL8+pJGEVo6Q7RUWihwVCl6726VGtWw04XOylXWHDOiW6XZW+zHh00pjyAnBZsd/gCBI5sf0MOVnMHfXWMzRLnjPY9jItD203jVwHHMbgk6lQUqYDiqpbGWVrRwjHOj3F1ZehyDgnLhyPKy7zHMk0JilnUp/4yF8PtyqBCyxhjjDnrjCkqvCCxf1hoGWOMMQMSf+obkjHjNuNgoWWMMcYYMxIWWsYYY4wxIzGo0NKHyPg7ctzeIe4Xo/eP+bv2nOCHe1e9Qj/GA32mgS8evPHGm17KP8gPBetLMKDvrSzThW9o+eWVkzHHvogxhm/x4Rpj+5TH9dJbh1MfC1577ZvpyLcOkd8h9cgoQguZ5ICrbyDoMZ5P+S2KKQGbcTBhg45Ci9s7wG/KHXKfgX3xhh1tHf3PGhyg2O91LIhhTRu+ucY30nQbAbMdc+yLKBPGeBw5+Q8pAoYGbZj5RZuOb1ROEdoTfVHn1xhuV0YRWrqixQIw03FLAjLH/0SGhjaNDaHUIMbYdM00qLiNQvcsQrHwpS/+bjp6H63N0D2S9NV/v1m2PWiDUxYgu0KBgqOueE61jbAN64oWrqc8TqLdcHGC+R1SGI4itLgZKSZ7Glf/S0MBeO0Vge3R/xBgQ17rJrC0f7zXDEPfyuxZJQ5Obn/bw76r46bZHJ1Tot8+wz7F/jT19sHxkHWB+WnqYwGEFkUW8ztkOxpUaBljjDHGmAYLLWOMMcaYkbDQMsYYY4wZCQstY4wxZgN2eWlr1xeSNC19jnnqzzuZLoMKrdJbh5vso8VGtEsjPotwHy1S6sjeR2tc+IaK99HKcJsRfYDUE8Lm8A0tPuQ8x7fnToNN+qK+tIUj2qm+2dfXbnUs1bdFcQ/i5H2oQ41D3yRFP6GfvjAS48BR3zCML4xNeb81lBflZJvWMk+VvdtHixmMbx2ysenbEn5DaXtgRx1MSo2Bb3IirIXWOHCfGJzHQfAswrcOKbTY7tz+1qPjIMZQ2qzUt81qNumLtDPOeWT7XTUPadwqnujOODSdGLb0JpuOJRrHKqE15X7FOYpCi+WY8puS1CywP/MbbX4SBhdaOKKxskH17aOlDYUFmnJFTAEqbRDtCXR7h5KdzXCoXd1umwmCq61xIjNl0GfZp/UfU4us7dlkNYtwzim1z5IYAlo3updhFEl9/3REocW0dxFaUx5zWF4KLdpqm/o5bVCnsCnsr3Ubw+3KoELLGGOMmSNTEQp9QtBMFwstY4wxZgOGXOXYlakIPrM5FlrGGGOMMSNhoWWMMcYYMxKDCi2+dYilTfyOrA9t82FPnPMBUPrtw+ufU4K2wgN8OI9vu8RwZhzYpv3MRPNatG2xPRgH2VcxduI8PvxsVsOxcNv+qD/D9Y2jfeiD9Dq/7cqmD7hP/afD+DB89J8ipZcR1qH1ta5OBhdaOMLQNHDcRwvHuAfIPrz+ORVgq/gWR6mD05YlPzMM+zKInAYYoHRgZftzn96cVW+Zmc3Y9hmqOIbifk62nM+4x5Kifb+UJuNAvFxYwD2Ik/XMeJkH7SsIxzdPS2/wTrl98E1Mjge07TYi5rRhneiiT+mNVIXlUW0T3VhPowgtrmjhnAlpZmL4Gze+2vEzZVRowW44j8IVtmcjt03Hw0KrgQMMJwdOGm5/m6P/FVug7sYuk7n+M8qVKcTDVbLSVhs65pb+mS1NuBgvdMzgpF76p4T5iAsVJF5PCQoOljnaYoqgjmFr5JX53UTMUkDznG2HApNxjSK0NPG+fbQYDkcWaN3y21mHHRPAnrGDoqHQ7rq6GOMxw2Ch1cABxfto7Y5OtLsIhrPOrvOHttGS3UttWMOVRHEUFzhGocV44zgOVMihXIhvX4R4FJfxF5gpsus+WhpmVdsZVGgZY4wxZ4FNVjw2may3xf/g7R8WWsYYY8yWbCJ4xhBaU14ZMmUstIwxxhhjRsJCyxhjjDFmJAYVWvpQNo76tkbp4djSQ4ZmPfGB4xJ+GH5c8HwGHn584403vZRvjBkNjDF8iw/XGNunPK6X3josvZk5JbjVBvLK/JbeNt2V0YRW3HIAfnyyn25TbixTBTbTvV9KDQKNm0LANh4H2Pc73/lubevob4wxQ4DxBfMmjhzr45g/JfhGfHzrcMrjJO257VuHmzKa0IqvOlLRMvOrVmNMGT58GVdQSg2C9radx0H/YZjyq9bGmP2GAgVHXcDY5GH8u0Hc3oFaYMrjJIQWFyeY3yGF4WhCi9e6ZKj7ZnE1ZqqNZcrEFS266z5aOE59uXafUXFbErrGGDMEnPA5nuM4ZdHC8ZDzO+arqc9FEFoUWczvkNpkUKFljDHGGGMaLLSMMcYYY0bCQssYY4wxZiQstIwxxhhjRmJQoRUfhvc+WuPgfbTuPnxDxftoGWPGxPtojc9e7aPFt+BAaR8tNBCKsSELcZbQfbRIFFzc2wlhp9wh9xnuE4PzIV8DNsYYBeMLxvx92t6B+UUedReCGHYqQI9QFDK/Q47rgwotXdFCpletaEVxYNZDpQ1UQPG/Bd3ewSta46J2nfIAYozZb/Qfun3ZsBRHCi0uDMQFginBzdT3YsNSY4wxxhjTYKFljDHGGDMSFlrGGGOMMSNhoWWMMcYYMxKDCq24vQO/aUj/eD7Vtyamjn7zKj4YXwpnhke/SD/lhzyNMfsNx/Eh34Ibk/gwfPSfIrQtPyg9NKMJrfhWhH5okm/E+W2t7YFtObGvenOTtrXYGgd0TKD72xhjzNBwrOE4gzlgymMO5nrmF0KLc9BYImYIuDike36tml+3ZVChxRUWsGofLTYSr2ptj/fRmgbeR8sYcxpgfPE+WuMy2320gEXAdngfrengfbSMMaeB/kPnfbTGwftoGWOMMcbsKRZaxhhjjDEjYaFljDHGGDMSFlrGGGOMMSMxqNBatY8WHjbTrQbim3Jmc6JN+16b9dYO48IXE6b69o8xZv/hOD7kW3BjEh+Gj/5ThLbtm0tPymhCq++tCBZoym8gTBndR4vHkqDyPlrjsy+DiDFmf8GcSXDtfbSGZ6/20VKhFffRUn9gobUbKrRu3PhqOo+25j5aOA75iqppY6HVDwesvn+4TBlOTP4HaXvmajeM5dwYWcf6qfYtzDnML/emonsMOxVgS9gWeWV+hxSzowktHNWwMdMWWrsTd4bXpVo2klgXZngstIwxY8O5k+M8RUwMNxWYTxwxRnKemqowBMgb5lXYNs6rQzCo0DLGGGOMMQ0WWsYYY4wxI2GhZYwxxhgzEhZaxhhjjDEjMajQig9gx4ff4M+n++O9ZnO+8fXjdFz1+ukYD/SZBr548MYbb/rFDmPMaGCM0QfgMbZPeVwvvXU49bdBX3vtm+nItw6HfmN6UKHF12tBFFOcjDTzq4SCKYNGHPfPio2Y2zsg7JQ75D6Dfxo48E35DSBjzH6D8QVjftzeYapvPXOOotBinnV7p6kBXUJRyPwOOa4PKrR0RQuZpqiiQoz7nESBYFajdkRjpr2j3XHuFa1xUbtOeQAxxuw3+g8d59QhV1uGRrcbwnwUN9ieIrAnxnHMscznkHPnaEKL11FMcb+K6G42hw0hLnGq0OLGh/FeMwzaCYfskMYYo1Bo6S8YU/7njuMh8kmhNfW5CHMofzZkfodcMRxUaBljjDHGmAYLLWOMMcaYkbDQMsYYY4wZiUGFVnxGC78t62+z+O2TzxMN/RvoWUJtymfeYpgYzgwLbc43gqK/McYMAcfxId+CG5P4MHz0nyK0Lb8VPDSjCa3SWxEoBNz5RtyUH+ibKrAtJ3Zu41Ca6Glbi61xgN2B7m9jjDFDw7GG4wzmgCmPORBazK++lDWWiBkCLg7pnl9Dbj81qNBCBsmqfbT0LYp9UbxTQffR4n8OUWh5H63x8T5axpjTgP9M4+h9tMZh1vtoWQRsR9xHK9rU+2idHt5HyxhzGug/dN5Haxz2ah8tY4wxxhjTYKFljDHGGDMSFlrGGGOMMSNhoWWMMcYYMxIWWsYYY4wxI2GhZYwxxhgzEv8fh8/iO+jhYqgAAAAASUVORK5CYII=>
 
